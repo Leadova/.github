@@ -1,6 +1,6 @@
 # Program ASAH Dicoding x Accenture
 
-![DIAPREDICT DICODING](https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/cover-leadova.png)
+![LEADOVA](https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/cover-leadova.png)
 
 Capstone project Program ASAH Dicoding x Accenture
 
