@@ -1,66 +1,22 @@
-**Hasil Pengembangan Produk**
+# Program ASAH Dicoding x Accenture
 
-- Proyek 100% selesai berdasarkan rencana proyek
-- Web portal menerapkan Role Based Access Control (RABC) antara role ADMIN dan SALES
-- Web portal bisa menambahkan, memperbarui, dan menghapus nasabah / pengguna
-- Web portal bisa menambahkan banyak data nasabah sekaligus melalui import excel
-- Web portal bisa export statistik dari dashboard berdasarkan bulan dan tahun yang dipilih
+![DIAPREDICT DICODING](https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/cover-leadova.png)
 
-**Tabel Hak Akses**
+Capstone project Program ASAH Dicoding x Accenture
 
-|             Hak Akses             | Admin | Sales |
-| :-------------------------------: | :---: | :---: |
-|    Mengakses halaman dashboard    |  ✅   |  ✅   |
-| Mengakses halaman daftar nasabah  |  ✅   |  ✅   |
-|      Input data nasabah baru      |  ✅   |  ❌   |
-|     Memperbarui data nasabah      |  ✅   |  ❌   |
-|    Memperbarui status nasabah     |  ❌   |  ✅   |
-|      Menghapus data nasabah       |  ✅   |  ❌   |
-| Mengakses halaman daftar pengguna |  ✅   |  ❌   |
-|     Input data pengguna baru      |  ✅   |  ❌   |
-|     Memperbarui data pengguna     |  ✅   |  ❌   |
-|      Menghapus data pengguna      |  ✅   |  ❌   |
+#### ID Tim: A25-CS066
 
-**Implementasi**
+#### Nama Proyek: Leadova
 
-**Frontend**:
+<img src="https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/logo-brand-png.png" alt="logo-diapredict" width="150"/>
 
-- [Vercel](https://vercel.com)
-- [Vite](https://vite.dev)
-- [Typescript](https://www.typescriptlang.org)
-- [React](https://react.dev)
-- [TailwindCSS](https://tailwindcss.com)
-- [Axios](https://axios-http.com/docs/intro)
-- [Shadcn/UI](https://ui.shadcn.com)
-- [Tanstack Query](https://tanstack.com/query/latest)
-- [React Hook Form](https://react-hook-form.com)
-- [CASL](https://casl.js.org/v6/en)
-- [Rechart](https://recharts.github.io)
+#### Anggota
 
-**Backend**:
+| Name                             | Student ID     | Role                       | LinkedIn                                                               | Github                                           |
+| :------------------------------- | :------------- | :------------------------- | :--------------------------------------------------------------------- | :----------------------------------------------- |
+| `Andre Putra Wijaya`             | `R891D5Y0216`  | `React & Back-End with AI` | [LinkedIn](https://www.linkedin.com/in/andreputraw)                    | [GitHub](https://github.com/Andreputra12)        |
+| `Christian Andri Siahaan`        | `R891D5Y0382`  | `React & Back-End with AI` | [LinkedIn](https://www.linkedin.com/in/christian-andri-siahaan)        | [GitHub](https://github.com/christian-siahaan26) |
+| `Dian Erdiana`                   | `MC012D5Y1404` | `React & Back-End with AI` | [LinkedIn](https://www.linkedin.com/in/dianerdiana)                    | [GitHub](https://github.com/dianerdiana)         |
+| `Firda Zahra Wahyu Sagita Putri` | `M891D5X0649`  | `Machine Learning`         | [LinkedIn](https://www.linkedin.com/in/firda-zahra-wahyu-sagita-putri) | [GitHub](https://github.com/fzwsp)               |
+| `Khaniya Adhelina Putri`         | `M891D5X0966`  | `Machine Learning`         | [LinkedIn](https://www.linkedin.com/in/khaniya-adhel)                  | [GitHub](https://github.com/Kaniyoii)            |
 
-- [Vercel](https://vercel.com)
-- [NodeJs](https://nodejs.org/en)
-- [Typescript](https://www.typescriptlang.org)
-- [ExpressJs](https://expressjs.com)
-- [Prisma](https://prisma.io)
-- [PostgreSQL](https://www.postgresql.org)
-- [Swagger](https://swagger.io)
-- [Postman](https://www.postman.com)
-
-**Machine Learning**:
-
-- ???
-
-**Hasil Frontend**
-
-- Screenshot halaman-halaman web
-
-**Hasil Backend**
-
-- Screenshot halaman github backend
-- Screenshot deployment vercel
-
-**Hasil Machine Learning**
-
-- ???
