@@ -10,6 +10,7 @@ Capstone project Program ASAH Dicoding x Accenture
 * [Repository Frontend](https://github.com/Leadova/leadova-frontend.git)
 * [Repository Backend](https://github.com/Leadova/leadova-backend.git)
 * [Repository Machine Learning](https://github.com/Leadova/leadova-ml.git)
+* [Model Machine Learning](https://drive.google.com/drive/folders/1MJ3GNbu6pjhamdOEeaq6Zkd0iURAix0K?usp=drive_link)
 
 <img src="https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/logo-brand-png.png" alt="logo-diapredict" width="150"/>
 
@@ -23,3 +24,5 @@ Capstone project Program ASAH Dicoding x Accenture
 | `Firda Zahra Wahyu Sagita Putri` | `M891D5X0649`  | `Machine Learning`         | [LinkedIn](https://www.linkedin.com/in/firda-zahra-wahyu-sagita-putri) | [GitHub](https://github.com/fzwsp)               |
 | `Khaniya Adhelina Putri`         | `M891D5X0966`  | `Machine Learning`         | [LinkedIn](https://www.linkedin.com/in/khaniya-adhel)                  | [GitHub](https://github.com/Kaniyoii)            |
 
+### Catatan:
+Instruksi jelas tentang cara menjalankan aplikasi terdapat di masing-masing repository
