@@ -2,11 +2,12 @@
 
 ![LEADOVA](https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/cover-leadova.png)
 
-Capstone project Program ASAH Dicoding x Accenture
+## Capstone project Program ASAH Dicoding x Accenture
+Portal web yang digunakan untuk menampilkan hasil segmentasi nasabah berdasarkan tingkat potensi (High, Mid, Low) serta menyediakan fitur manajemen nasabah dan pengguna. Sistem ini menerapkan Role-Based Access Control (RBAC) untuk memastikan keamanan dan pembatasan hak akses sesuai fungsi pengguna.
 
-#### ID Tim: A25-CS066
+### ID Tim: A25-CS066
 
-#### Nama Proyek: Leadova
+### Nama Proyek: Leadova
 * [Repository Frontend](https://github.com/Leadova/leadova-frontend.git)
 * [Repository Backend](https://github.com/Leadova/leadova-backend.git)
 * [Repository Machine Learning](https://github.com/Leadova/leadova-ml.git)
@@ -14,7 +15,8 @@ Capstone project Program ASAH Dicoding x Accenture
 
 <img src="https://ik.imagekit.io/dianerdiana/asah-capstone-project-2025/logo-brand-png.png" alt="logo-diapredict" width="150"/>
 
-#### Anggota
+
+### Anggota
 
 | Name                             | Student ID     | Role                       | LinkedIn                                                               | Github                                           |
 | :------------------------------- | :------------- | :------------------------- | :--------------------------------------------------------------------- | :----------------------------------------------- |
@@ -25,4 +27,4 @@ Capstone project Program ASAH Dicoding x Accenture
 | `Khaniya Adhelina Putri`         | `M891D5X0966`  | `Machine Learning`         | [LinkedIn](https://www.linkedin.com/in/khaniya-adhel)                  | [GitHub](https://github.com/Kaniyoii)            |
 
 ### Catatan:
-Instruksi jelas tentang cara menjalankan aplikasi terdapat di masing-masing repository
+Set-up environment dan instruksi jelas tentang cara menjalankan aplikasi terdapat di masing-masing repository
